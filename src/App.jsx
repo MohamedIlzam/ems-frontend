@@ -1,12 +1,13 @@
 
 import './App.css'
+import HelloWorld from './assets/HelloWorld'
 
 function App() {
  
 
   return (
     <>
-      <h2>Hello wod</h2>
+      <HelloWorld/>
     </>
   )
 }
